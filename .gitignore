@@ -1,0 +1,5 @@
+# Idea Files
+.idea
+
+# npm dependencies
+node_modules/
